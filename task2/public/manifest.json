@@ -1,0 +1,8 @@
+{
+  "short_name": "Grocery Store",
+  "name": "NFQ second task",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
