@@ -1,2 +1,2 @@
 # Grocery-Store
-NFQ second task.
+https://luko-app.herokuapp.com/
